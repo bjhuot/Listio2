@@ -1,0 +1,1 @@
+{"ast":null,"code":"import index from './index';\nexport default index;","map":{"version":3,"sources":["/Users/brianhuot/coding/listio2/pages/todo.js"],"names":["index"],"mappings":"AAAA,OAAOA,KAAP,MAAkB,SAAlB;AAEA,eAAeA,KAAf","sourcesContent":["import index from './index'\n\nexport default index\n"]},"metadata":{},"sourceType":"module"}
